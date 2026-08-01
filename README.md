@@ -6,7 +6,7 @@ AI Engineer with 6+ years of software development experience, now focused on app
 - 🧠 Interests: computer vision, multimodal retrieval (CLIP, DINOv2, FAISS), NLP/LLMs
 - 💻 Background: full-stack development (C#, .NET, SQL Server) on enterprise HRMS and hospital management systems
 - 🌍 Based in Stockholm, Sweden
-- 📫 Reach me: jobsyjohnson@hotmail.com | [LinkedIn](https://www.linkedin.com/in/jobsy-johnson)
+- 📫 Reach me: jobsyjohnson@gmail.com | [LinkedIn](https://www.linkedin.com/in/jobsy-johnson)
 
 ---
 
