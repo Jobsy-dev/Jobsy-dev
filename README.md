@@ -3,7 +3,6 @@
 AI Engineer with 6+ years of software development experience, now focused on applied AI — computer vision, multimodal retrieval, and NLP. MSc in Artificial Intelligence (Jönköping University).
 
 - 🔭 Currently building AI-powered product identification and industrial automation pipelines
-- 🧠 Interests: computer vision, multimodal retrieval (CLIP, DINOv2, FAISS), NLP/LLMs
 - 💻 Background: full-stack development (C#, .NET, SQL Server) on enterprise HRMS and hospital management systems
 - 🌍 Based in Stockholm, Sweden
 - 📫 Reach me: jobsyjohnson@gmail.com | [LinkedIn](https://www.linkedin.com/in/jobsy-johnson)
