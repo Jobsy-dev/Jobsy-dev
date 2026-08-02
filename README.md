@@ -5,7 +5,7 @@ AI Engineer with 6+ years of software development experience, now focused on app
 - 🔭 Currently building AI-powered product identification and industrial automation pipelines
 - 💻 Background: full-stack development (C#, .NET, SQL Server) on enterprise HRMS and hospital management systems
 - 🌍 Based in Stockholm, Sweden
-- 📫 Reach me: jobsyjohnson@gmail.com | [LinkedIn](https://www.linkedin.com/in/jobsy-johnson)
+- 📫 Reach me: jobsyjohnson@hotmail.com | [LinkedIn](https://www.linkedin.com/in/jobsy-johnson)
 
 ---
 
